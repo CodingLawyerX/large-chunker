@@ -1,3 +1,104 @@
+# Processed Document
+
+## Table of Contents
+- [Section 1](#section-1)
+- [Section 2](#section-2)
+- [Section 3](#section-3)
+- [Section 4](#section-4)
+- [Section 5](#section-5)
+- [Section 6](#section-6)
+- [Section 7](#section-7)
+- [Section 8](#section-8)
+- [Section 9](#section-9)
+- [Section 10](#section-10)
+- [Section 11](#section-11)
+- [Section 12](#section-12)
+- [Section 13](#section-13)
+- [Section 14](#section-14)
+- [Section 15](#section-15)
+- [Section 16](#section-16)
+- [Section 17](#section-17)
+- [Section 18](#section-18)
+- [Section 19](#section-19)
+- [Section 20](#section-20)
+- [Section 21](#section-21)
+- [Section 22](#section-22)
+- [Section 23](#section-23)
+- [Section 24](#section-24)
+- [Section 25](#section-25)
+- [Section 26](#section-26)
+- [Section 27](#section-27)
+- [Section 28](#section-28)
+- [Section 29](#section-29)
+- [Section 30](#section-30)
+- [Section 31](#section-31)
+- [Section 32](#section-32)
+- [Section 33](#section-33)
+- [Section 34](#section-34)
+- [Section 35](#section-35)
+- [Section 36](#section-36)
+- [Section 37](#section-37)
+- [Section 38](#section-38)
+- [Section 39](#section-39)
+- [Section 40](#section-40)
+- [Section 41](#section-41)
+- [Section 42](#section-42)
+- [Section 43](#section-43)
+- [Section 44](#section-44)
+- [Section 45](#section-45)
+- [Section 46](#section-46)
+- [Section 47](#section-47)
+- [Section 48](#section-48)
+- [Section 49](#section-49)
+- [Section 50](#section-50)
+- [Section 51](#section-51)
+- [Section 52](#section-52)
+- [Section 53](#section-53)
+- [Section 54](#section-54)
+- [Section 55](#section-55)
+- [Section 56](#section-56)
+- [Section 57](#section-57)
+- [Section 58](#section-58)
+- [Section 59](#section-59)
+- [Section 60](#section-60)
+- [Section 61](#section-61)
+- [Section 62](#section-62)
+- [Section 63](#section-63)
+- [Section 64](#section-64)
+- [Section 65](#section-65)
+- [Section 66](#section-66)
+- [Section 67](#section-67)
+- [Section 68](#section-68)
+- [Section 69](#section-69)
+- [Section 70](#section-70)
+- [Section 71](#section-71)
+- [Section 72](#section-72)
+- [Section 73](#section-73)
+- [Section 74](#section-74)
+- [Section 75](#section-75)
+- [Section 76](#section-76)
+- [Section 77](#section-77)
+- [Section 78](#section-78)
+- [Section 79](#section-79)
+- [Section 80](#section-80)
+- [Section 81](#section-81)
+- [Section 82](#section-82)
+- [Section 83](#section-83)
+- [Section 84](#section-84)
+- [Section 85](#section-85)
+- [Section 86](#section-86)
+- [Section 87](#section-87)
+- [Section 88](#section-88)
+- [Section 89](#section-89)
+- [Section 90](#section-90)
+- [Section 91](#section-91)
+- [Section 92](#section-92)
+- [Section 93](#section-93)
+
+## Section 1
+
+## 1
+
 Meldepflicht und
 Benachrichtigungspflicht
 des Verantwortlichen
@@ -21,7 +122,12 @@ Sie kann im Internet auf https://www.datenschutz-bayern.de in der Rubrik
 „Datenschutzreform 2018“ abgerufen werden.
 Die PDF-Datei ist für den doppelseitigen Ausdruck optimiert.
 
+
 ---
+
+## Section 2
+
+## 2
 
  Form bereitgestellt.
 Sie kann im Internet auf https://www.datenschutz-bayern.de in der Rubrik
@@ -42,7 +148,12 @@ auch Art.  DSGVO erfordert. Zur Sprache kommt ferner der Handlungsablauf von der
 Feststellung einer Datenschutzverletzung in einer arbeitsteiligen Organisation bis zur Erfüllung der Melde- und der Benachrichtigungspflicht. Hinweise zum Umgang mit dem auf meiner Internetpräsenz bereitgestellten Online-Meldeformular runden die Orientierungshilfe ab.
 Berücksichtigung finden auch Besonderheiten im Anwendungsbereich der DatenschutzRichtlinie für Polizei und Strafjustiz (RLDSJ).
 
+
 ---
+
+## Section 3
+
+## 3
 
  mit dem auf meiner Internetpräsenz bereitgestellten Online-Meldeformular runden die Orientierungshilfe ab.
 Berücksichtigung finden auch Besonderheiten im Anwendungsbereich der DatenschutzRichtlinie für Polizei und Strafjustiz (RLDSJ).
@@ -58,7 +169,12 @@ der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der S
 freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008//JI des Rates (ABl. L  vom
 . Mai 2016, S. ).
 
+
 ---
+
+## Section 4
+
+## 4
 
  von Straftaten oder der Strafvollstreckung sowie zum
 freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008//JI des Rates (ABl. L  vom
@@ -106,7 +222,12 @@ c) Umfang der Meldung...........................................................
 V. Meldepflicht des Auftragsverarbeiters..................................................................................................
 Inhaltsverzeichnis
 
+
 ---
+
+## Section 5
+
+## 5
 
  der -Stunden-Frist..............................................................
 c) Umfang der Meldung........................................................................................................................
@@ -145,7 +266,12 @@ von nachteiligen Auswirkungen...................................................
 bb) Information der betroffenen Personen.............................................................................
 IX. Folgen von Pflichtverstößen......................................................................................................................
 
+
 ---
+
+## Section 6
+
+## 6
 
  Maßnahmen...........................................
 aa) Maßnahmen zur Behebung des Vorfalls und zur Abmilderung
@@ -181,7 +307,12 @@ Maßnahmen zur Behebung der Verletzung des Schutzes personenbezogener Daten
 und gegebenenfalls Maßnahmen zur Abmilderung ihrer möglichen nachteiligen Auswirkungen. Rn. , ,  f.,  ff.
 Normtexte
 
+
 ---
+
+## Section 7
+
+## 7
 
 lagenen
 Maßnahmen zur Behebung der Verletzung des Schutzes personenbezogener Daten
@@ -217,7 +348,12 @@ nachzuholen, oder sie kann mit einem Beschluss feststellen, dass bestimmte der i
 genannten Voraussetzungen erfüllt sind. Rn. 
 Normtexte
 
+
 ---
+
+## Section 8
+
+## 8
 
  personenbezogener Daten zu einem hohen Risiko führt, von dem Verantwortlichen verlangen, dies
 nachzuholen, oder sie kann mit einem Beschluss feststellen, dass bestimmte der in Absatz 
@@ -256,7 +392,12 @@ Tages und endet mit Ablauf der letzten Stunde des letzten Tages der Frist.
 nicht ausdrücklich ausgenommen oder die Fristen nach Arbeitstagen bemessen sind. Rn. 
 Normtexte
 
+
 ---
+
+## Section 9
+
+## 9
 
  Frist.
 […]
@@ -297,7 +438,12 @@ Die Vorschriften dieses Kapitels gelten, soweit nichts anderes bestimmt ist, fü
 . die Behörden des Maßregelvollzugs
 Normtexte
 
+
 ---
+
+## Section 10
+
+## 10
 
 
 . die Polizei,
@@ -326,7 +472,12 @@ wurden, sind die Informationen nach Art.  Abs.  DSGVO unverzüglich auch an dies
 melden. Rn.  f.
 Art.  – Vertrauliche Meldung von Datenschutzverstößen
 
+
 ---
+
+## Section 11
+
+## 11
 
 staates übermittelt
 wurden, sind die Informationen nach Art.  Abs.  DSGVO unverzüglich auch an diesen zu
@@ -338,7 +489,12 @@ Verantwortungsbereich erfolgende Verstöße gegen Datenschutzvorschriften zugele
 werden können. Rn.  ff. 2Art.  Abs.  gilt für die zur Entgegennahme dieser Meldungen
 betraute Stelle entsprechend. Rn.  f.
 
+
 ---
+
+## Section 12
+
+## 12
 
  Datenschutzvorschriften zugeleitet
 werden können. Rn.  ff. 2Art.  Abs.  gilt für die zur Entgegennahme dieser Meldungen
@@ -362,7 +518,12 @@ Die vorliegende Orientierungshilfe befasst sich mit zwei Pflichten aus diesem Pf
 der Meldepflicht, die Art.  DSGVO dem Verantwortlichen im Fall einer Datenschutzverletzung auferlegt, sowie der Benachrichtigungspflicht, die ihm nach Maßgabe von Art. 
 DSGVO gegenüber betroffenen Personen auferlegt ist.
 
+
 ---
+
+## Section 13
+
+## 13
 
 , die Art.  DSGVO dem Verantwortlichen im Fall einer Datenschutzverletzung auferlegt, sowie der Benachrichtigungspflicht, die ihm nach Maßgabe von Art. 
 DSGVO gegenüber betroffenen Personen auferlegt ist.
@@ -390,13 +551,23 @@ a) Nichtbeachtung von normativen Vorgaben
 Die Nichtbeachtung von normativen Vorgaben des Verantwortlichen hinsichtlich der Datensicherheit (Art.  DSGVO) ist ein Verletzungsverhalten, das typischerweise Personen
 aus der Sphäre des Verantwortlichen verwirklichen. Dabei kann es sich insbesondere um eigene Beschäftigte handeln oder um Beschäftigte, die für einen Auftragsverarbeiter des Verantwortlichen tätig sind. Sind die Vorgaben dagegen berücksichtigt – hat die Person insbesondere die ihr nach dem Berechtigungskonzept zukommende Rolle nicht verlassen –, so
 
+
 ---
+
+## Section 14
+
+## 14
 
  Beschäftigte handeln oder um Beschäftigte, die für einen Auftragsverarbeiter des Verantwortlichen tätig sind. Sind die Vorgaben dagegen berücksichtigt – hat die Person insbesondere die ihr nach dem Berechtigungskonzept zukommende Rolle nicht verlassen –, so
 
 . Verletzungsverhalten
 
+
 ---
+
+## Section 15
+
+## 15
 
 igte, die für einen Auftragsverarbeiter des Verantwortlichen tätig sind. Sind die Vorgaben dagegen berücksichtigt – hat die Person insbesondere die ihr nach dem Berechtigungskonzept zukommende Rolle nicht verlassen –, so
 
@@ -432,13 +603,23 @@ c) Organisatorisches Fehlverhalten
 Nur der Verantwortliche – genauer: eine Person, welche Aufgaben des Verantwortlichen
 wahrzunehmen hat – kann einen Verletzungserfolg durch organisatorisches Fehlverhalten verursachen. Der Verantwortliche versäumt es hier gerade, die nach Art.  DSGVO erforderlichen Maßnahmen – insbesondere eine Implementierung organisatorischer Stan8
 
+
 ---
+
+## Section 16
+
+## 16
 
 wahrzunehmen hat – kann einen Verletzungserfolg durch organisatorisches Fehlverhalten verursachen. Der Verantwortliche versäumt es hier gerade, die nach Art.  DSGVO erforderlichen Maßnahmen – insbesondere eine Implementierung organisatorischer Stan8
 
 II. Datenschutzverletzung als Anknüpfungspunkt
 
+
 ---
+
+## Section 17
+
+## 17
 
  organisatorisches Fehlverhalten verursachen. Der Verantwortliche versäumt es hier gerade, die nach Art.  DSGVO erforderlichen Maßnahmen – insbesondere eine Implementierung organisatorischer Stan8
 
@@ -465,13 +646,23 @@ beim Telefax-Dienst, im Internet abrufbar auf https://www.datenschutz-bayern.de 
 „Tätigkeitsberichte“.
  Vgl. etwa Bundesamt für Sicherheit in der Informationstechnik, IT-Grundschutz-Kompendium, ORP. Identitäts- und Berechtigungsmanagement, im Internet abrufbar auf https://www.bsi.bund.de in der Rubrik „Themen – IT-Grundschutz – IT-Grundschutz-Kompendium“.
 
+
 ---
+
+## Section 18
+
+## 18
 
 pendium, ORP. Identitäts- und Berechtigungsmanagement, im Internet abrufbar auf https://www.bsi.bund.de in der Rubrik „Themen – IT-Grundschutz – IT-Grundschutz-Kompendium“.
 
 . Verletzungserfolg
 
+
 ---
+
+## Section 19
+
+## 19
 
  Identitäts- und Berechtigungsmanagement, im Internet abrufbar auf https://www.bsi.bund.de in der Rubrik „Themen – IT-Grundschutz – IT-Grundschutz-Kompendium“.
 
@@ -501,14 +692,24 @@ Eine „planmäßige“ Einschränkung der Verfügbarkeit im Rahmen von Wartungs
  Ein alternativer Lösungsansatz ist das Ausscheiden bagatellmäßiger Verfügbarkeitsdefizite im Rahmen der Risikobeurteilung, so wohl Artikel -Datenschutzgruppe, Leitlinien für die Meldung von Verletzungen des
 Schutzes personenbezogener Daten gemäß der Verordnung (EU) 2016/, WP  (rev.), S.  f., im In11
 
+
 ---
+
+## Section 20
+
+## 20
 
  so wohl Artikel -Datenschutzgruppe, Leitlinien für die Meldung von Verletzungen des
 Schutzes personenbezogener Daten gemäß der Verordnung (EU) 2016/, WP  (rev.), S.  f., im In11
 
 II. Datenschutzverletzung als Anknüpfungspunkt
 
+
 ---
+
+## Section 21
+
+## 21
 
 ung von Verletzungen des
 Schutzes personenbezogener Daten gemäß der Verordnung (EU) 2016/, WP  (rev.), S.  f., im In11
@@ -538,14 +739,24 @@ Grundsätzlich liegt dagegen keine Verletzung der Datensicherheit vor, wenn eine
 verstößt die Weitergabe allerdings anderweit gegen datenschutzrechtliche Vorschriften.
 ternet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Orientierungs- und Praxishilfen – Meldung von Datenschutzverletzungen“.
 
+
 ---
+
+## Section 22
+
+## 22
 
  datenschutzrechtliche Vorschriften.
 ternet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Orientierungs- und Praxishilfen – Meldung von Datenschutzverletzungen“.
 
 . Datenschutzverletzung bei unklarer Tatsachengrundlage
 
+
 ---
+
+## Section 23
+
+## 23
 
 www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Orientierungs- und Praxishilfen – Meldung von Datenschutzverletzungen“.
 
@@ -577,14 +788,24 @@ die weiteren Voraussetzungen gegeben sind.
 ermitteln, was den Verletzungserfolg bewirkt hat.
 Beispiel: Einer behördlichen IT-Stelle fällt auf, dass ein Server ungewöhnlich hohe Datenmengen ins Internet verschickt. Sie kann ermitteln, dass Pakete mit personenbezo17
 
+
 ---
+
+## Section 24
+
+## 24
 
  Verletzungserfolg bewirkt hat.
 Beispiel: Einer behördlichen IT-Stelle fällt auf, dass ein Server ungewöhnlich hohe Datenmengen ins Internet verschickt. Sie kann ermitteln, dass Pakete mit personenbezo17
 
 II. Datenschutzverletzung als Anknüpfungspunkt
 
+
 ---
+
+## Section 25
+
+## 25
 
  Einer behördlichen IT-Stelle fällt auf, dass ein Server ungewöhnlich hohe Datenmengen ins Internet verschickt. Sie kann ermitteln, dass Pakete mit personenbezo17
 
@@ -620,7 +841,12 @@ System eine „black box“ darstelle.
 Die Konstellationen einer unklaren Tatsachengrundlage bei der Beurteilung der Datenschutzverletzung dürfen nicht mit den Unsicherheiten verwechselt werden, die im Rahmen
 der Risikobeurteilung zu bewältigen sind. Die dort zu prüfenden Nachteile sind mit dem Verletzungserfolg bei der Datenschutzverletzung nicht identisch und haben sich im Übrigen regelmäßig noch nicht realisiert.
 
+
 ---
+
+## Section 26
+
+## 26
 
  im Rahmen
 der Risikobeurteilung zu bewältigen sind. Die dort zu prüfenden Nachteile sind mit dem Verletzungserfolg bei der Datenschutzverletzung nicht identisch und haben sich im Übrigen regelmäßig noch nicht realisiert.
@@ -657,7 +883,12 @@ Benachrichtigung
 Meldung und
 Benachrichtigung
 
+
 ---
+
+## Section 27
+
+## 27
 
 
 voraussichtliches
@@ -673,7 +904,12 @@ Benachrichtigung
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 28
+
+## 28
 
  Meldung
 keine Benachrichtigung
@@ -706,7 +942,12 @@ ob es sich der Art nach um eine Datenschutzverletzung handelt,
 ein sorgfältiger Verantwortlicher nie vollständig ausschließen kann,
  Siehe dazu auch die Ausführungen in WP  (Fn. ), S.  ff.
 
+
 ---
+
+## Section 29
+
+## 29
 
 ,
 – in welcher sich Fehler einer eingesetzten Soft- oder Hardware manifestieren, die auch
@@ -715,7 +956,12 @@ ein sorgfältiger Verantwortlicher nie vollständig ausschließen kann,
 
 . Erster Schritt: Gewinnung der Beurteilungsgrundlage
 
+
 ---
+
+## Section 30
+
+## 30
 
 , die auch
 ein sorgfältiger Verantwortlicher nie vollständig ausschließen kann,
@@ -751,14 +997,24 @@ Schutz, den der Gesetzgeber für die betreffenden personenbezogenen Daten bereit
 Stets sind auch die Umstände des Einzelfalls zu betrachten. So können selbst die Grunddaten einer Person – wie sie im Melderegister dokumentiert sind – eines (atypisch) gesteigerten Schutzes bedürfen, so etwa unter den Voraussetzungen, bei deren Vorliegen das Melderecht eine Auskunftssperre zulässt. Die Empfindlichkeit für sich genommen nicht besonders
 schutzwürdiger Daten kann dadurch eine Steigerung erfahren, dass die Daten untereinander verknüpft und gleichsam im Verbund verarbeitet werden: Die Daten werden so Bestand30
 
+
 ---
+
+## Section 31
+
+## 31
 
 re zulässt. Die Empfindlichkeit für sich genommen nicht besonders
 schutzwürdiger Daten kann dadurch eine Steigerung erfahren, dass die Daten untereinander verknüpft und gleichsam im Verbund verarbeitet werden: Die Daten werden so Bestand30
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 32
+
+## 32
 
  dadurch eine Steigerung erfahren, dass die Daten untereinander verknüpft und gleichsam im Verbund verarbeitet werden: Die Daten werden so Bestand30
 
@@ -784,7 +1040,12 @@ Im Fall einer Pseudonymisierung sind für die Risikoanalyse Informationen darüb
 ferner insbesondere, ob ein Unbefugter, der Kenntnis von pseudonymisierten Daten erlangt
 hat, der Verschlüsselung wie Jedermann gegenübertritt oder wie eine Person mit Sonderwissen.
 
+
 ---
+
+## Section 33
+
+## 33
 
  Pseudonymisierungsverfahren vermittelt,
 ferner insbesondere, ob ein Unbefugter, der Kenntnis von pseudonymisierten Daten erlangt
@@ -792,7 +1053,12 @@ hat, der Verschlüsselung wie Jedermann gegenübertritt oder wie eine Person mit
 
 . Zweiter Schritt: Risikoanalyse
 
+
 ---
+
+## Section 34
+
+## 34
 
 ferner insbesondere, ob ein Unbefugter, der Kenntnis von pseudonymisierten Daten erlangt
 hat, der Verschlüsselung wie Jedermann gegenübertritt oder wie eine Person mit Sonderwissen.
@@ -823,7 +1089,12 @@ Die in einem zweiten Schritt der Risikobeurteilung durchzuführende Risikoanalys
 auf die rechtliche Bewertung eines tatsächlich entstandenen Risikos. Eine exakte
 Quantifizierung ist nicht erforderlich. Risiken müssen den drei Stufen „geringes Risiko“, „Ri38
 
+
 ---
+
+## Section 35
+
+## 35
 
 ikobeurteilung durchzuführende Risikoanalyse zielt
 auf die rechtliche Bewertung eines tatsächlich entstandenen Risikos. Eine exakte
@@ -831,7 +1102,12 @@ Quantifizierung ist nicht erforderlich. Risiken müssen den drei Stufen „gerin
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 36
+
+## 36
 
  tatsächlich entstandenen Risikos. Eine exakte
 Quantifizierung ist nicht erforderlich. Risiken müssen den drei Stufen „geringes Risiko“, „Ri38
@@ -856,7 +1132,12 @@ Personen“. Dieser auch in der englischen Fassung anzutreffende Sprachgebrauch 
 von dem in Art.  Nr.  DSGVO legal definierten Begriff „betroffene Person“ ab, der in Art. 
 Abs.  DSGVO daneben Verwendung findet. Den Terminus „natürliche Person“ gebraucht
 
+
 ---
+
+## Section 37
+
+## 37
 
 uch hebt sich
 von dem in Art.  Nr.  DSGVO legal definierten Begriff „betroffene Person“ ab, der in Art. 
@@ -864,7 +1145,12 @@ Abs.  DSGVO daneben Verwendung findet. Den Terminus „natürliche Person“ geb
 
 . Zweiter Schritt: Risikoanalyse
 
+
 ---
+
+## Section 38
+
+## 38
 
 .  Nr.  DSGVO legal definierten Begriff „betroffene Person“ ab, der in Art. 
 Abs.  DSGVO daneben Verwendung findet. Den Terminus „natürliche Person“ gebraucht
@@ -897,7 +1183,12 @@ die betroffene Person erhält infolgedessen eine Leistung nicht oder erfährt Re
 Dritten nicht (richtig) führen, die für den Bezug von Leistungen oder die Abwehr von
 Rechtsnachteilen von Bedeutung sind.
 
+
 ---
+
+## Section 39
+
+## 39
 
  daraus einen Nachteil.
 – Die betroffene Person kann Nachweise gegenüber dem Verantwortlichen oder einem
@@ -906,7 +1197,12 @@ Rechtsnachteilen von Bedeutung sind.
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 40
+
+## 40
 
 
 Dritten nicht (richtig) führen, die für den Bezug von Leistungen oder die Abwehr von
@@ -940,13 +1236,23 @@ Bestehen bei der Quantifizierung der Schwere oder der Eintrittswahrscheinlichkei
 Nachteilen Unsicherheiten, sollte grundsätzlich der jeweils höhere Grad gewählt werden.
  Zur Abstufung der Grade siehe Konferenz der unabhängigen Datenschutzbehörden des Bundes und der Länder, Risiko für die Rechte und Freiheiten natürlicher Personen, Kurzpapier Nr. , Stand /2018, S. , im Internet abrufbar auf https://www.datenschutzkonferenz-online.de in der Rubrik „Infothek – Kurzpapiere“.
 
+
 ---
+
+## Section 41
+
+## 41
 
  Rechte und Freiheiten natürlicher Personen, Kurzpapier Nr. , Stand /2018, S. , im Internet abrufbar auf https://www.datenschutzkonferenz-online.de in der Rubrik „Infothek – Kurzpapiere“.
 
 . Zweiter Schritt: Risikoanalyse
 
+
 ---
+
+## Section 42
+
+## 42
 
 , Kurzpapier Nr. , Stand /2018, S. , im Internet abrufbar auf https://www.datenschutzkonferenz-online.de in der Rubrik „Infothek – Kurzpapiere“.
 
@@ -980,14 +1286,24 @@ eine gebührenpflichtige Verwarnung an die Scheibe geheftet. H. will nichts beza
 wendet sich in einer E-Mail an die erste Bürgermeisterin B. Da müsse doch etwas zu machen sein. B. hat es wie immer sehr eilig, tippt hastig ein „Bitte mit Augenmaß erledigen“ in
 die Betreffzeile, der Empfänger ergänzt sich selbst – leider war es nicht die Leiterin des Ordnungsamts Jutta O., sondern die örtliche Journalistin Jutta P. Diese macht einen kleinen Arti54
 
+
 ---
+
+## Section 43
+
+## 43
 
 “ in
 die Betreffzeile, der Empfänger ergänzt sich selbst – leider war es nicht die Leiterin des Ordnungsamts Jutta O., sondern die örtliche Journalistin Jutta P. Diese macht einen kleinen Arti54
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 44
+
+## 44
 
  nicht die Leiterin des Ordnungsamts Jutta O., sondern die örtliche Journalistin Jutta P. Diese macht einen kleinen Arti54
 
@@ -1024,7 +1340,12 @@ Stadt. Diese stellt fest, dass die Aktivitäten des P. zu einem Stimmungsumschwu
 den Stadtratsmitgliedern geführt haben; R. verlor ihre Stellung als Favoritin.
 . Zweiter Schritt: Risikoanalyse
 
+
 ---
+
+## Section 45
+
+## 45
 
  der
 Stadt. Diese stellt fest, dass die Aktivitäten des P. zu einem Stimmungsumschwung unter
@@ -1066,7 +1387,12 @@ ab, das sich bereits abzeichnet/das naheliegt/für das eine wirksame Anreizsitua
 hinsichtlich des Nachteils besteht eine
 hohe Eintrittswahrscheinlichkeit
 
+
 ---
+
+## Section 46
+
+## 46
 
  möglich, er hängt vom Verhalten Dritter
 ab, das sich bereits abzeichnet/das naheliegt/für das eine wirksame Anreizsituation besteht
@@ -1075,7 +1401,12 @@ hohe Eintrittswahrscheinlichkeit
 
 III. Risikobeurteilung bei Meldepflicht und Benachrichtigungspflicht
 
+
 ---
+
+## Section 47
+
+## 47
 
 heliegt/für das eine wirksame Anreizsituation besteht
 hinsichtlich des Nachteils besteht eine
@@ -1103,7 +1434,12 @@ sind bereits eingetretene Nachteile mit mindestens überschaubarer Schwere. In a
 Fällen ist sowohl eine Meldung nach Art.  DSGVO als auch eine Benachrichtigung nach
 Art.  DSGVO geboten.
 
+
 ---
+
+## Section 48
+
+## 48
 
 ind bereits eingetretene Nachteile mit mindestens überschaubarer Schwere. In allen diesen
 Fällen ist sowohl eine Meldung nach Art.  DSGVO als auch eine Benachrichtigung nach
@@ -1124,7 +1460,12 @@ Grad  Grad  Grad  Grad
 geringfügig überschaubar substanziell groß
 Eintrittswahrscheinlichkeit des Nachteils
 
+
 ---
+
+## Section 49
+
+## 49
 
 ell
 Grad III
@@ -1165,7 +1506,12 @@ treffen:
 – Kommunalunternehmen und gemeinsame Kommunalunternehmen;
 – Kammern in den Bereichen der freien Berufe und des Handwerks, Handwerksinnungen;
 
+
 ---
+
+## Section 50
+
+## 50
 
 ;
 – verselbstständigte Regiebetriebe und Eigenbetriebe kommunaler Träger;
@@ -1174,7 +1520,12 @@ treffen:
 
 . Entstehen der Meldepflicht
 
+
 ---
+
+## Section 51
+
+## 51
 
 iebetriebe und Eigenbetriebe kommunaler Träger;
 – Kommunalunternehmen und gemeinsame Kommunalunternehmen;
@@ -1210,7 +1561,12 @@ dargestellten Maßstäben als eine solche identifiziert werden kann. Vor diesem 
 kann die Datenschutzverletzung dem Verantwortlichen grundsätzlich nicht bekannt werden.
 Verfügt der Verantwortliche zunächst nur über Anhaltspunkte, dass eine Datenschutzverlet65
 
+
 ---
+
+## Section 52
+
+## 52
 
 argestellten Maßstäben als eine solche identifiziert werden kann. Vor diesem Zeitpunkt
 kann die Datenschutzverletzung dem Verantwortlichen grundsätzlich nicht bekannt werden.
@@ -1218,7 +1574,12 @@ Verfügt der Verantwortliche zunächst nur über Anhaltspunkte, dass eine Datens
 
 IV. Meldepflicht nach Art.  DSGVO
 
+
 ---
+
+## Section 53
+
+## 53
 
 . Vor diesem Zeitpunkt
 kann die Datenschutzverletzung dem Verantwortlichen grundsätzlich nicht bekannt werden.
@@ -1260,14 +1621,24 @@ erster Bürgermeister/Oberbürgermeister, Landrat), soweit dieses ehrenamtlich t
 neuen Bayerischen Datenschutzgesetzes für bayerische öffentliche Stellen, Stand /2019, S.  ff., im Internet
 abrufbar unter http://www.stmi.bayern.de/sus/datensicherheit/datenschutz/reform_arbeitshilfen.
 
+
 ---
+
+## Section 54
+
+## 54
 
  Datenschutzgesetzes für bayerische öffentliche Stellen, Stand /2019, S.  ff., im Internet
 abrufbar unter http://www.stmi.bayern.de/sus/datensicherheit/datenschutz/reform_arbeitshilfen.
 
 . Erfüllung der Meldepflicht
 
+
 ---
+
+## Section 55
+
+## 55
 
 , Stand /2019, S.  ff., im Internet
 abrufbar unter http://www.stmi.bayern.de/sus/datensicherheit/datenschutz/reform_arbeitshilfen.
@@ -1306,14 +1677,24 @@ a) Grundsatz
 Die Meldung ist nach Art.  Abs.  Satz  DSGVO unverzüglich, mithin ohne schuldhaftes
 Zögern, zu erstatten. Dies gilt insbesondere für leicht zu erkennende und leicht zu beschreibende sowie für besonders gewichtige meldepflichtige Ereignisse.
 
+
 ---
+
+## Section 56
+
+## 56
 
  Satz  DSGVO unverzüglich, mithin ohne schuldhaftes
 Zögern, zu erstatten. Dies gilt insbesondere für leicht zu erkennende und leicht zu beschreibende sowie für besonders gewichtige meldepflichtige Ereignisse.
 
 IV. Meldepflicht nach Art.  DSGVO
 
+
 ---
+
+## Section 57
+
+## 57
 
 es
 Zögern, zu erstatten. Dies gilt insbesondere für leicht zu erkennende und leicht zu beschreibende sowie für besonders gewichtige meldepflichtige Ereignisse.
@@ -1353,13 +1734,23 @@ setzt eine „Frist von zwei oder mehr Tagen“, mithin eine nach Tagen – nich
 bemessene Frist voraus.
  Nichtamtlicher Kurztitel der Verordnung (EWG, Euratom) Nr. 1182/ des Rates vom . Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L  vom . Juni 1971, S. ).
 
+
 ---
+
+## Section 58
+
+## 58
 
  (EWG, Euratom) Nr. 1182/ des Rates vom . Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L  vom . Juni 1971, S. ).
 
 . Erfüllung der Meldepflicht
 
+
 ---
+
+## Section 59
+
+## 59
 
  1182/ des Rates vom . Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L  vom . Juni 1971, S. ).
 
@@ -1415,7 +1806,12 @@ Umfang die Vertraulichkeit beeinträchtigt ist. In Fällen dieser Art erstattet 
 (Art.  Abs.  DSGVO), wenn ihm die noch fehlenden Angaben möglich sind, oder wenn
 ihm sonst Informationen bekannt werden, welche für die Beurteilung der Datenschutzverletzung von Bedeutung sind. Das gilt insbesondere für Informationen, welche die der Erstmeldung zugrunde liegenden Annahmen zu Eintrittswahrscheinlichkeit und Schwere möglicher
 
+
 ---
+
+## Section 60
+
+## 60
 
 
 ihm sonst Informationen bekannt werden, welche für die Beurteilung der Datenschutzverletzung von Bedeutung sind. Das gilt insbesondere für Informationen, welche die der Erstmeldung zugrunde liegenden Annahmen zu Eintrittswahrscheinlichkeit und Schwere möglicher
@@ -1439,7 +1835,12 @@ Davon abgesehen sollten die Beschäftigten durch geeignete Schulungsangebote bef
 werden, die Verursachung meldepflichtiger Ereignisse zu vermeiden und Anhaltspunkte für
 – insbesondere extern ins Werk gesetzte – Angriffe auf die Datensicherheit zu erkennen.
 
+
 ---
+
+## Section 61
+
+## 61
 
  durch geeignete Schulungsangebote befähigt
 werden, die Verursachung meldepflichtiger Ereignisse zu vermeiden und Anhaltspunkte für
@@ -1463,7 +1864,12 @@ Meldung des Verantwortlichen geltenden Anforderungen entsprechen. Datenschutzauf
 treffen auch in diesem Fall aber den Verantwortlichen, der sich durch eine Bevollmächtigung
 des Auftragsverarbeiters also nicht „freizeichnen“ kann.
 
+
 ---
+
+## Section 62
+
+## 62
 
 ener, unvollständiger oder verzögerter Meldungen
 treffen auch in diesem Fall aber den Verantwortlichen, der sich durch eine Bevollmächtigung
@@ -1493,7 +1899,12 @@ in einer Risikobeurteilung festzustellen (zur Risikobeurteilung Rn.  ff.). Ha
 DSGVO trifft, und andererseits auch, ob er außerdem noch die Benachrichtigungspflicht
 nach Art.  DSGVO erfüllen muss.
 
+
 ---
+
+## Section 63
+
+## 63
 
 teilung durchgeführt, so weiß er einerseits, ob ihn eine Meldepflicht nach Art. 
 DSGVO trifft, und andererseits auch, ob er außerdem noch die Benachrichtigungspflicht
@@ -1501,7 +1912,12 @@ nach Art.  DSGVO erfüllen muss.
 
 . Ausschluss der Benachrichtigungspflicht
 
+
 ---
+
+## Section 64
+
+## 64
 
  eine Meldepflicht nach Art. 
 DSGVO trifft, und andererseits auch, ob er außerdem noch die Benachrichtigungspflicht
@@ -1536,7 +1952,12 @@ darstellen.
 Beispiele: Ein interner Angreifer verschafft sich Zugangspasswörter von Kollegen, um auf
 Daten aus deren jeweiligem Zuständigkeitsbereich zugreifen zu können. Der Verantwortli95
 
+
 ---
+
+## Section 65
+
+## 65
 
  Datenschutzverletzung
 darstellen.
@@ -1545,7 +1966,12 @@ Daten aus deren jeweiligem Zuständigkeitsbereich zugreifen zu können. Der Vera
 
 VI. Benachrichtigungspflicht nach Art.  DSGVO
 
+
 ---
+
+## Section 66
+
+## 66
 
 ifer verschafft sich Zugangspasswörter von Kollegen, um auf
 Daten aus deren jeweiligem Zuständigkeitsbereich zugreifen zu können. Der Verantwortli95
@@ -1579,13 +2005,23 @@ Eine Benachrichtigung kann nach Art. , Art.  Abs.  Nr.  Buchst. a BayDSG unterbl
 wenn dies zur Abwehr erheblicher Nachteile für das Gemeinwohl oder von Gefahren für die
 öffentliche Sicherheit und Ordnung erforderlich ist. Diese Intention einer Nicht-Benachrichtigung liegt regelmäßig vor, wenn die personenbezogenen Daten, auf die sich die Datenschutzverletzung bezieht, vom Verantwortlichen zum Zweck der Abwehr erheblicher Nach99
 
+
 ---
+
+## Section 67
+
+## 67
 
 entliche Sicherheit und Ordnung erforderlich ist. Diese Intention einer Nicht-Benachrichtigung liegt regelmäßig vor, wenn die personenbezogenen Daten, auf die sich die Datenschutzverletzung bezieht, vom Verantwortlichen zum Zweck der Abwehr erheblicher Nach99
 
 . Ausschluss der Benachrichtigungspflicht
 
+
 ---
+
+## Section 68
+
+## 68
 
  Nicht-Benachrichtigung liegt regelmäßig vor, wenn die personenbezogenen Daten, auf die sich die Datenschutzverletzung bezieht, vom Verantwortlichen zum Zweck der Abwehr erheblicher Nach99
 
@@ -1620,7 +2056,12 @@ Einzelfall zu einer drittschädigenden Reaktion auf eine Datenschutzverletzung v
  Siehe dazu im Einzelnen Bayerischer Landesbeauftragter für den Datenschutz, Datenschutzverletzungen:
 Melde- und Benachrichtigungspflicht unter der Datenschutz-Richtlinie für Polizei und Strafjustiz, Aktuelle KurzInformation , Stand /2018, im Internet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Aktuelle Kurz-Informationen“.
 
+
 ---
+
+## Section 69
+
+## 69
 
  Polizei und Strafjustiz, Aktuelle KurzInformation , Stand /2018, im Internet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Aktuelle Kurz-Informationen“.
 
@@ -1640,7 +2081,12 @@ Abs.  DSGVO vor, dass mindestens die in Art.  Abs.  Buchst. b, Buchst. c (Rn.
  ff.) und Buchst. d DSGVO (Rn. , ,  f.,  ff.) genannten Informationen und
 Maßnahmen mitzuteilen sind.
 
+
 ---
+
+## Section 70
+
+## 70
 
 st. b, Buchst. c (Rn.  ff.,
  ff.) und Buchst. d DSGVO (Rn. , ,  f.,  ff.) genannten Informationen und
@@ -1673,14 +2119,24 @@ Art.  Abs.  BayDSG regelt näher, welche Vorschriften der Datenschutz-Grundveror
 anzuwenden sind, während Art.  Abs.  BayDSG einzelne Bestimmungen in Teil  Kapitel  bis  des Bayerischen Datenschutzgesetzes von einer Anwendung ausschließt, also
 Ausnahmen zum Grundsatz des Art.  Satz  BayDSG festlegt. In Art.  bis  BayDSG fin108
 
+
 ---
+
+## Section 71
+
+## 71
 
 immungen in Teil  Kapitel  bis  des Bayerischen Datenschutzgesetzes von einer Anwendung ausschließt, also
 Ausnahmen zum Grundsatz des Art.  Satz  BayDSG festlegt. In Art.  bis  BayDSG fin108
 
 VII. Datenschutz-Richtlinie für Polizei und Strafjustiz
 
+
 ---
+
+## Section 72
+
+## 72
 
 es von einer Anwendung ausschließt, also
 Ausnahmen zum Grundsatz des Art.  Satz  BayDSG festlegt. In Art.  bis  BayDSG fin108
@@ -1746,7 +2202,12 @@ BayDSG heißt es:
 übermittelt wurden, sind die Informationen nach Art.  Abs.  DSGVO unverzüglich
 auch an diesen zu melden.“
 
+
 ---
+
+## Section 73
+
+## 73
 
  In Art. 
 BayDSG heißt es:
@@ -1756,7 +2217,12 @@ auch an diesen zu melden.“
 
 . Regelungen im Einzelnen
 
+
 ---
+
+## Section 74
+
+## 74
 
  heißt es:
 „Wenn Daten von oder an den Verantwortlichen eines anderen Mitgliedstaates
@@ -1797,7 +2263,12 @@ kann allerdings der Fall eintreten, dass der Meldende auch die Vertraulichkeit g
 dem Verantwortlichen wünscht. In diesem Fall hat die auch gegenüber dem Verantwortlichen wirkende Verschwiegenheitspflicht des Datenschutzbeauftragten nach Art.  Abs. 
 BayDSG Vorrang. Eine Zuleitung an den Verantwortlichen muss dann unterbleiben.
 
+
 ---
+
+## Section 75
+
+## 75
 
  In diesem Fall hat die auch gegenüber dem Verantwortlichen wirkende Verschwiegenheitspflicht des Datenschutzbeauftragten nach Art.  Abs. 
 BayDSG Vorrang. Eine Zuleitung an den Verantwortlichen muss dann unterbleiben.
@@ -1830,7 +2301,12 @@ sich die mit der Nachmeldung mitzuteilenden Angaben etwa so formulieren:
 Anzahl der Datensätze:
 Minimal geschätzte Anzahl der betroffenen Datensätze: 8500
 
+
 ---
+
+## Section 76
+
+## 76
 
  Fall ließen
 sich die mit der Nachmeldung mitzuteilenden Angaben etwa so formulieren:
@@ -1862,7 +2338,12 @@ nicht in Einklang steht und noch nicht beseitigt ist, oder wenn eine Kette von D
 
 VIII. Dokumentation
 
+
 ---
+
+## Section 77
+
+## 77
 
  Datenschutzverletzung eine Folge nach sich gezogen hat, die mit dem Datenschutzrecht
 nicht in Einklang steht und noch nicht beseitigt ist, oder wenn eine Kette von Datenschutzverletzungen noch nicht unterbrochen ist.
@@ -1885,7 +2366,12 @@ Auswahl:
 
 . Hinweise zur Nutzung des Online-Meldeformulars
 
+
 ---
+
+## Section 78
+
+## 78
 
  des Schutzes personenbezogener Daten“ stehen einige
 tatsächlich häufig vorkommende Typen eines Verletzungsverhaltens (Rn.  ff.) zur
@@ -1923,7 +2409,12 @@ phishingsuspekter Nachrichten sollten berücksichtigen, dass technische Laien ei
 „Verwendung unverschlüsselter E-Mails“, im Internet abrufbar auf https://www.datenschutz-bayern.de in der
 Rubrik „Tätigkeitsberichte“.
 
+
 ---
+
+## Section 79
+
+## 79
 
  Datenschutz, . Tätigkeitsbericht 2014, Beitrag Nr. ..
 „Verwendung unverschlüsselter E-Mails“, im Internet abrufbar auf https://www.datenschutz-bayern.de in der
@@ -1931,7 +2422,12 @@ Rubrik „Tätigkeitsberichte“.
 
 VIII. Dokumentation
 
+
 ---
+
+## Section 80
+
+## 80
 
 bericht 2014, Beitrag Nr. ..
 „Verwendung unverschlüsselter E-Mails“, im Internet abrufbar auf https://www.datenschutz-bayern.de in der
@@ -1972,14 +2468,24 @@ Bürgern betreffen, wenn sie entgegen den gesetzlichen Vorgaben oder innerbehör
 Begriffe, Stand 2012, und DIN 66399-, Büro- und Datentechnik – Vernichten von Datenträgern – Teil : Anforderungen an Maschinen zur Vernichtung von Datenträgern, Stand 2012, im Internet beziehbar über
 https://www.beuth.de.
 
+
 ---
+
+## Section 81
+
+## 81
 
 99-, Büro- und Datentechnik – Vernichten von Datenträgern – Teil : Anforderungen an Maschinen zur Vernichtung von Datenträgern, Stand 2012, im Internet beziehbar über
 https://www.beuth.de.
 
 . Hinweise zur Nutzung des Online-Meldeformulars
 
+
 ---
+
+## Section 82
+
+## 82
 
  von Datenträgern – Teil : Anforderungen an Maschinen zur Vernichtung von Datenträgern, Stand 2012, im Internet beziehbar über
 https://www.beuth.de.
@@ -2016,13 +2522,23 @@ Beispiel  (Fallgruppe „Hackerangriff, Schadsoftware, Phishing“): „Der Pers
 Landratsamts [...] verbindet. Der Beschäftigte gibt an, er habe am Vorfallstag gegen :
 Uhr während der Auswertung von Bewerbungen für die Stelle eines Sachbearbeiters Bauverwaltung an seine dienstliche E-Mail-Adresse eine Nachricht von service@itdlz[...].de erhalten. In dieser Nachricht sei er aufgefordert worden, eine angehängte Datei mit dem Namen ‚Win95.exe‘ auszuführen. Wie in der E-Mail angegeben, habe er sein AdministratorenPasswort eingegeben und die erscheinenden Warnmeldungen weggeklickt. Der Bildschirm
 
+
 ---
+
+## Section 83
+
+## 83
 
 fordert worden, eine angehängte Datei mit dem Namen ‚Win95.exe‘ auszuführen. Wie in der E-Mail angegeben, habe er sein AdministratorenPasswort eingegeben und die erscheinenden Warnmeldungen weggeklickt. Der Bildschirm
 
 VIII. Dokumentation
 
+
 ---
+
+## Section 84
+
+## 84
 
 hängte Datei mit dem Namen ‚Win95.exe‘ auszuführen. Wie in der E-Mail angegeben, habe er sein AdministratorenPasswort eingegeben und die erscheinenden Warnmeldungen weggeklickt. Der Bildschirm
 
@@ -2047,14 +2563,24 @@ Postfach-Anschrift auch die persönliche E-Mail-Adresse.
 In die Rubrik „weitere Identifikationsdaten“ gehören alle Merkmale, die einer natürlichen
 Person individuell zugeordnet sind, wie etwa die Personalausweisnummer, die Steueridentifikationsnummer oder die Sozialversicherungsnummer. Die Rubrik erfasst weiterhin Merk143
 
+
 ---
+
+## Section 85
+
+## 85
 
 ifikationsdaten“ gehören alle Merkmale, die einer natürlichen
 Person individuell zugeordnet sind, wie etwa die Personalausweisnummer, die Steueridentifikationsnummer oder die Sozialversicherungsnummer. Die Rubrik erfasst weiterhin Merk143
 
 . Hinweise zur Nutzung des Online-Meldeformulars
 
+
 ---
+
+## Section 86
+
+## 86
 
  natürlichen
 Person individuell zugeordnet sind, wie etwa die Personalausweisnummer, die Steueridentifikationsnummer oder die Sozialversicherungsnummer. Die Rubrik erfasst weiterhin Merk143
@@ -2092,7 +2618,12 @@ Das Auswahlfeld „Daten die einen besonderen Amtsgeheimnis unterliegen“ fasst
 Steuer- sowie Sozialgeheimnis gehören das Statistikgeheimnis (§  Abs.  Satz  Bundesstatistikgesetz, Art.  Abs.  Satz  Bayerisches Statistikgesetz), das Wahlgeheimnis (z. B.
 §  Abs.  Satz  Bundeswahlgesetz, Art.  Abs.  Satz  Landeswahlgesetz, Art.  Satz
 
+
 ---
+
+## Section 87
+
+## 87
 
  Art.  Abs.  Satz  Bayerisches Statistikgesetz), das Wahlgeheimnis (z. B.
 §  Abs.  Satz  Bundeswahlgesetz, Art.  Abs.  Satz  Landeswahlgesetz, Art.  Satz
@@ -2116,7 +2647,12 @@ Höchstwert sind anzugeben (Rn. ).
 
 . Hinweise zur Nutzung des Online-Meldeformulars
 
+
 ---
+
+## Section 88
+
+## 88
 
 verletzung betroffene „Anzahl der
 Datensätze“ festgestellt oder zumindest geschätzt werden. Der Mindestwert und ein
@@ -2143,7 +2679,12 @@ die der Angriff haben kann.
 
 VIII. Dokumentation
 
+
 ---
+
+## Section 89
+
+## 89
 
 ablauf. Beruht die Datenschutzverletzung auf menschlichem Handeln, geht es
 hier nicht mehr um die „Angriffsart“, sondern um die näheren und weiteren Auswirkungen,
@@ -2174,7 +2715,12 @@ die meldende öffentliche Stelle bereits ergriffen oder geplant hat. Dies gilt z
 risikomindernden Maßnahmen, zum anderen für Benachrichtigungen in Erfüllung einer etwa
 eingreifenden Benachrichtigungspflicht nach Art.  DSGVO.
 
+
 ---
+
+## Section 90
+
+## 90
 
 griffen oder geplant hat. Dies gilt zum einen für die
 risikomindernden Maßnahmen, zum anderen für Benachrichtigungen in Erfüllung einer etwa
@@ -2205,7 +2751,12 @@ nachteiligen Auswirkungen dar,
 
 VIII. Dokumentation
 
+
 ---
+
+## Section 91
+
+## 91
 
  bei den Maßnahmen zur Abmilderung von
 nachteiligen Auswirkungen dar,
@@ -2229,7 +2780,12 @@ für die Rechte und Freiheiten natürlicher Personen zur Folge hat, muss sie das
 
 . Hinweise zur Nutzung des Online-Meldeformulars
 
+
 ---
+
+## Section 92
+
+## 92
 
 iheiten natürlicher Personen zur Folge hat, muss sie das Ergebnis ihrer Risikobeurteilung (Rn.  ff.) in dem entsprechenden Freitextfeld kurz darlegen. Zur
 
@@ -2244,7 +2800,12 @@ Datenschutz-Aufsichtsbehörden handeln. Zusätzliche Meldepflichten finden sich 
  Das den Bereich der Datenschutz-Richtlinie für Polizei und Strafjustiz betreffende Ankreuzfeld setzt die Vorgabe in Art.  BayDSG um.
  Siehe dazu im Einzelnen Bayerischer Landesbeauftragter für den Datenschutz, „Meldung von Datenschutzverletzungen durch Sozialbehörden an die zuständigen Rechts- oder Fachaufsichtsbehörden“, Aktuelle KurzInformation , Stand /2019, im Internet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Aktuelle Kurz-Informationen“.
 
+
 ---
+
+## Section 93
+
+## 93
 
  Fachaufsichtsbehörden“, Aktuelle KurzInformation , Stand /2019, im Internet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Aktuelle Kurz-Informationen“.
 
@@ -2263,6 +2824,3 @@ Pflichtverletzung auf eine Tätigkeit bezieht, mit welcher eine bayerische öffe
 am Wettbewerb teilnimmt (vgl. Art.  BayDSG).
  Siehe dazu im Einzelnen Bayerischer Landesbeauftragter für den Datenschutz, Geldbußen nach Art.  Datenschutz-Grundverordnung gegen bayerische öffentliche Stellen, Aktuelle Kurz-Information , Stand /2019,
 im Internet abrufbar auf https://www.datenschutz-bayern.de in der Rubrik „Datenschutzreform 2018 – Aktuelle Kurz-Informationen“.
-
----
-
